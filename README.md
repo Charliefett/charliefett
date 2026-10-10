@@ -2,29 +2,26 @@
 
 **I build practical AI systems that turn LLMs into tools people actually use.**
 
-Finance student at LSU (B.S. Finance, minor in Entrepreneurship, '27) building AI and automation on the side — the kind that saves real time, not demos. My focus is finding where AI fits an actual workflow, then building the system around it so it runs without anyone babysitting it.
+Finance student at LSU (B.S. Finance, minor in Entrepreneurship, '27). I find where AI fits a real workflow, then build the system around it so it runs without supervision.
 
-## What I'm building
+## What I run
 
-**Jarvis — a personal AI operating system**
-Syncs my coursework and deadlines into one searchable store, composes a cited daily briefing from my calendar and email, and runs a build-and-verify harness that tests AI-generated tools before they ship.
+**Up to Speed AI** · Creator and operator  
+A course and membership that takes students from not knowing what AI can do to running their own personal AI system on Claude.  
+Instagram: [@charliefett.ai](https://www.instagram.com/charliefett.ai/)
 
-**Builder / Verifier harness**
-A pipeline where one AI agent builds a tool and a second, independent agent verifies every claim against evidence it reproduces itself — so nothing is graded "done" by the thing that built it. Refined over repeated test runs, with an enforced security gate preventing agents from running version-control commands directly.
-
-**Command Center**
-A live dashboard tracking every project I'm running — priority, status, next action — backed by a real database, built as a single self-contained page.
-
-**Workflow & automation tools**
-Course-file sorters, deadline sync, and a workflow-designer agent that turns a one-line idea into a spec another agent can build.
+**Jarvis** · Creator and operator  
+My personal AI operating system. Private.
 
 ## How I work
 
-Smallest useful version first → prove it's worth it → expand only what earns it.
+Smallest useful version first. Prove it is worth it. Expand only what earns it.  
+I direct the design, rules and tests; Claude Code writes most of the code.  
 Complex underneath, effortless on top.
 
-## Reach me
+## Contact
 
-- Email: *charles.fett@gmail.com*
-- LinkedIn: *https://www.linkedin.com/in/charlesfett*
+- Email: charles.fett@gmail.com
+- Up to Speed AI: aiuptospeed@gmail.com
+- LinkedIn: https://www.linkedin.com/in/charlesfett
   
